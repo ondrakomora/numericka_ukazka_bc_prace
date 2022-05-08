@@ -1,4 +1,4 @@
-# numericka_ukazka_bc_prace
+# Numerická ukázka k bakalářské práci na téma Řídká řešení v optimalizačních úlohách klasifikace.
 Kód k numerické ukázce v mojí bakalářské práci na téma Řídká řešení v optimalizačních úlohách klasifikace.
 
 Tenhle repositář neobsahuje datasety, na kterých jsme provaděli tyto experimenty. Ty lze nalézt na adresách:
